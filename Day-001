@@ -45,3 +45,4 @@ or  cmd   import sys   print（sys.version_info）   print(sys.version)
 
 hello.py     flag.py    peppa-pig.py
 
+新手上路第一天，感谢各位前辈慷慨贡献的学习资料。刚接触python，上面的内容可能有不对的地方，会在以后的学习中不断改正完善，希望自己能够坚持下去。
